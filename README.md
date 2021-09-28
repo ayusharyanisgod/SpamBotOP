@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/5f300db034fe1c137d295.jpg">
+  <img src="https://telegra.ph/file/690427752f881be12730a.jpg">
 </p>
 
 
@@ -21,13 +21,11 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/deadly_spam_bot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/deadly_spammer"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/D3VILSPAMBOTSUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/D3VILSPAMBOTOP"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 𝙾𝚆𝙽𝙴𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁🇮🇳](https://t.me/OFFICIAL_SAMEER)
-## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[𝙳𝙰𝙽𝙸𝚂𝙷🇮🇳](https://t.me/IDANISHBAABA)
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚄𝚂𝚃𝙰𝙳🇮🇳](https://t.me/USTAD_OP)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚄𝚂𝚃𝙰𝙳🇮🇳](https://t.me/IIGauravII)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
