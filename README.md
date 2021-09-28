@@ -20,7 +20,7 @@
 <a href="https://t.me/D3VILSPAMBOTOP"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚄𝚂𝚃𝙰𝙳🇮🇳](https://t.me/IIGauravII)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[Gaurav🇮🇳](https://t.me/LEGENDXGAURAV)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
