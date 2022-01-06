@@ -1,7 +1,5 @@
-# By < MOHAMMAD AMAAN >
-# // SPAMMERBOT MADE BY @CRIMINAL786 //
+from OpUstad import UstaD, UstaD2, UstaD3, UstaD4, UstaD5, UstaD6, UstaD7, UstaD8, UstaD9, UstaD10, SUDO_USERS
 
-from .. import ATGK
 from telethon import events, Button
 
 @ATGK.on(events.NewMessage(incoming=True, pattern="/start"))
