@@ -1,4 +1,5 @@
-Spam Op
+# SPAMM OP
+
 
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/dangerousjatt/SpamBot-2.0/blob/main/LICENSE)
 
